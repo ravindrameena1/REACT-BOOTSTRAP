@@ -1,0 +1,11 @@
+.calculator{
+  border: 2px solid rgb(101, 97, 97);
+  width: 300px;
+  height: 420px;
+  border-radius: 6px;
+  }
+  .Wrapper{
+     display: flex;
+justify-content: center;
+  }
+
